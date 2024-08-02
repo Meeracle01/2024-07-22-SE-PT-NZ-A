@@ -3,4 +3,4 @@
 Repository to save all the code samples 
 New changes added
 New content added
-Adding soem random lines while learning 
+Adding some random lines while learning 
